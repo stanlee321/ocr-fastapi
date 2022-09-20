@@ -1,0 +1,11 @@
+name: cn_ocr
+channels:
+  - defaults
+dependencies:
+  - python=3.8.13
+  - pip:
+      - aiohttp==3.8.1
+      - cnocr==2.2.2
+      - conda-env-export==0.4.5
+      - pip==22.1.2
+prefix: /home/stanlee321/anaconda3/envs/cn_ocr

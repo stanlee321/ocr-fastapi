@@ -1,0 +1,9 @@
+aiohttp==3.8.1
+cnocr==2.2.2
+pip==22.1.2
+Pillow==8.1.1
+opencv-python==4.6.0.66
+requests==2.22.0
+fastapi==0.85.0
+uvicorn[standard]==0.18.3
+python-multipart==0.0.5
